@@ -1,3 +1,4 @@
 /node_modules
 /src/web-mobile
 /dist
+.DS_Store
